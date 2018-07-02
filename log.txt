@@ -1,0 +1,4 @@
+Сообщение 1
+Сообщение 2
+java.lang.Exception: Сообщение об ошибке
+	at com.javarush.task.task27.task2712.Restaurant.main(Restaurant.java:18)
